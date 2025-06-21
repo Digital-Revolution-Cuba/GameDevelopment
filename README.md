@@ -12,6 +12,6 @@ Este repositorio/organización es un hub para creadores de videojuegos donde pue
 
 ---
 
-#Se Bienvenido, Happy Coding
+**Se Bienvenido, Happy Coding**
 
 Admins: Superiom, Miguelangel(Jeiner)
