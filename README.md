@@ -30,9 +30,10 @@ Este repositorio funciona como un **hub comunitario de desarrollo de videojuegos
 ```plaintext
 /
 ├── Assets/           # Recursos visuales, sonoros y tipográficos
+├── Herramientas/     # Scripts de utilidad, editores, plugins, etc.
 ├── Mecánicas/        # Scripts y sistemas reutilizables (movimiento, UI, combate...)
 ├── Proyectos/        # Juegos y prototipos completos en Godot
-├── Herramientas/     # Scripts de utilidad, editores, plugins, etc.
+├── Tutoriales/       # Tutoriales de Godot para ayudarte a desarrollar
 ```
 
 ---
