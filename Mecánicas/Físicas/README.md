@@ -8,10 +8,10 @@ Esta carpeta contiene **mecánicas físicas reutilizables** desarrolladas en **G
 
 Cada archivo o subcarpeta representa una mecánica lista para usarse o adaptarse:
 
-- **Movimiento2D.gd**  
+- **Movimiento2D/**  
   Movimiento básico con aceleración y frenado en 2D (plataforma o top-down).
 
-- **GravedadPersonalizada.gd**  
+- **GravedadPersonalizada/**  
   Simulación de gravedad no estándar (por dirección, fuerza variable o planetaria).
 
 - **ColisionesAvanzadas/**  
