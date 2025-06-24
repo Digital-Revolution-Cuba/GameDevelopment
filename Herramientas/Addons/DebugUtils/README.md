@@ -10,7 +10,7 @@ Godot Engine - Debug Utils
 Instalación
 ---
  - Descarga el archivo [debug_utils.zip](https://github.com/Digital-Revolution-Cuba/GameDevelopment/raw/refs/heads/main/Herramientas/Addons/DebugUtils/debug_utils.zip) y extráelo donde quieras.
- - Copia la carpeta addons/debug_utils en la carpeta donde se encuentre ubicado tu proyecto.
+ - Copia la carpeta extraída en la carpeta de addons donde se encuentre ubicado tu proyecto.
  - Abre el proyecto y actívalo en Configuración del Proyecto → Plugins → Debug Utils.
 
  ---
